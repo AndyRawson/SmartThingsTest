@@ -2,6 +2,8 @@
  *  Brighten Dark Places
  *
  *  Author: SmartThings
+ * 
+ *  A comment added in GitHub
  */
 definition(
     name: "A AAA First Test",
