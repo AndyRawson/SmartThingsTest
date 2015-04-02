@@ -1,4 +1,5 @@
 // COMMENT ADDED IN MAIN BRANCH
+// SECOND COMMENT IN THE MAIN BRANCH
 metadata {
 	// Automatically generated. Make future change here.
 	definition (name: "Aeon Key Fob", namespace: "smartthings", author: "SmartThings") {
