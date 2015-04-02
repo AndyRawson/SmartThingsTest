@@ -2,6 +2,7 @@
 // SECOND COMMENT IN THE MAIN BRANCH
 // A COMMENT ON TUESDAY
 // A COMMENT ON THURSDAY
+// A SECOND THURSDAY COMMENT
 metadata {
 	// Automatically generated. Make future change here.
 	definition (name: "Aeon Key Fob", namespace: "smartthings", author: "SmartThings") {
