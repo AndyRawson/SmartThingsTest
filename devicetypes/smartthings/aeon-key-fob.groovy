@@ -5,7 +5,7 @@
 // A SECOND THURSDAY COMMENT
 // THIRD THURSDAY COMMENT
 // FOURTH THURSDAY COMMENT
-// SATURDAY COMMENT
+// SATURDAY COMMENT, TWO!
 metadata {
 	// Automatically generated. Make future change here.
 	definition (name: "Aeon Key Fob", namespace: "smartthings", author: "SmartThings") {
